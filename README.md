@@ -1,5 +1,7 @@
 # imagegallery
-- Image Gallery System for school yearbook allowing graduates to submit their photos
+## Image Gallery System for school yearbook allowing graduates to submit their photos
+
+### Notes:
 - Login button is at the top right corner, to become moderator just click on the button, which changes the $_SESSION['isEditor'] variable
 - To logout click the logout button which is at the same place as the login button.
 - Both views only show the public images by default, but moderator view has display dropdown menu that allows moderator to see all the images
